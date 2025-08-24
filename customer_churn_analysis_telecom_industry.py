@@ -8,19 +8,6 @@ Original file is located at
 
 # **Customer Churn Analysis: Telecom Industry**
 # EDA and Recommendation Project
-Team Details:
-
-
-
-
-Group Name: SoloTech Analytics
-
-
-
-Name: Aya SDOUR
-
-
-
 Gmail : sdouraya3@gmailcom
 """
 

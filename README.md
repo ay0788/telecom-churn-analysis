@@ -111,7 +111,7 @@ A **Random Forest Classifier** was implemented with the following results:
 | **F1-Score** | 79.4% |
 | **ROC AUC** | 0.85 |
 
-### 🎯 Top Churn Predictors
+###  Top Churn Predictors
 1. **Contract type** (month-to-month)
 2. **Tenure**
 3. **Monthly charges**
@@ -123,7 +123,7 @@ A **Random Forest Classifier** was implemented with the following results:
 9. **Senior citizen status**
 10. **Multiple lines**
 
-## 💡 Strategic Recommendations
+##  Strategic Recommendations
 
 ### 1.  Contract Strategy
 - **Action**: Convert month-to-month customers to longer-term contracts
@@ -203,13 +203,13 @@ A **Random Forest Classifier** was implemented with the following results:
 - **Market Position**: Stronger competitive advantage
 - **Business Intelligence**: Enhanced understanding of customer behavior
 
-## 📊 Results Summary
+##  Results Summary
 
 The analysis successfully identified key churn drivers and developed a robust predictive model. The combination of exploratory data analysis and machine learning provides actionable insights for reducing customer churn in the telecom industry.
 
 **Key Achievement**: 80.5% accuracy in predicting customer churn with clear identification of actionable retention strategies.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue for any improvements or suggestions.
 
